@@ -1,0 +1,18 @@
+# data (never commit)
+src/data/
+*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
